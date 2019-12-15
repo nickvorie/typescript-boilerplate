@@ -6,7 +6,7 @@ Configured with jest, gulp, eslint and a custom HTML type for importing HTML fil
 
 Jest tests won't break if you try to import HTML.
 
-There are also are a good selection of npm scripts to help you.
+There is also a good selection of npm scripts to help you develop your project.
 
 Feel free to contribute!
 
